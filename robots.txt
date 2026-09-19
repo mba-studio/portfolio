@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mbastudio.online/sitemap.xml
